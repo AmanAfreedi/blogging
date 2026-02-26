@@ -1,6 +1,5 @@
 
 import { Route, Routes } from 'react-router-dom'
-import Login from './components/login'
 import SignUp from './components/SignUp'
 import Otp from './components/Otp'
 import LandingPage from './components/landingPage'
